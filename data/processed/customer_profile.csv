@@ -1,0 +1,1001 @@
+ACCOUNT_ID,CUSTOMER_ID,INIT_BALANCE,COUNTRY,ACCOUNT_TYPE,IS_FRAUD,TX_BEHAVIOR_ID,OCCUPATION,SOURCE_OF_FUNDS,PEP_STATUS,DOCUMENT_STATUS,SANCTIONS_STATUS
+0,C_0,184.44,US,I,False,1,Software Developer,Savings,No,Verified,Cleared
+1,C_1,175.8,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+2,C_2,142.06,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+3,C_3,125.89,US,I,False,1,Software Developer,Savings,No,Verified,Cleared
+4,C_4,151.13,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+5,C_5,140.49,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+6,C_6,178.38,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+7,C_7,130.33,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+8,C_8,147.66,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+9,C_9,158.34,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+10,C_10,190.81,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+11,C_11,150.47,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+12,C_12,128.18,US,I,False,1,Consultant,Investment,No,Verified,Cleared
+13,C_13,175.58,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+14,C_14,161.84,US,I,False,1,Consultant,Business Income,No,Verified,Cleared
+15,C_15,125.05,US,I,False,1,Student,Family Support,No,Verified,Cleared
+16,C_16,190.97,US,I,False,1,Engineer,Unknown,No,Verified,Cleared
+17,C_17,198.28,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+18,C_18,181.02,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+19,C_19,190.22,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+20,C_20,262.03,US,I,False,2,Business Owner,Savings,No,Verified,Cleared
+21,C_21,345.97,US,I,False,2,Consultant,Unknown,Yes,Verified,Cleared
+22,C_22,379.77,US,I,False,2,Consultant,Savings,Yes,Verified,Cleared
+23,C_23,336.8,US,I,False,2,Engineer,Savings,No,Verified,Cleared
+24,C_24,294.43,US,I,False,2,Consultant,Investment,Yes,Verified,Cleared
+25,C_25,220.14,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+26,C_26,286.83,US,I,False,2,Software Developer,Savings,No,Pending,Cleared
+27,C_27,322.18,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+28,C_28,382.6,US,I,False,2,Software Developer,Investment,Yes,Verified,Cleared
+29,C_29,393.32,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+30,C_30,295.4,US,I,False,2,Student,Savings,No,Verified,Cleared
+31,C_31,373.06,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+32,C_32,252.1,US,I,False,2,Student,Savings,No,Pending,Cleared
+33,C_33,361.01,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+34,C_34,309.74,US,I,False,2,Teacher,Salary,No,Pending,Cleared
+35,C_35,202.81,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+36,C_36,343.94,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+37,C_37,279.76,US,I,False,2,Software Developer,Savings,No,Verified,Potential Match
+38,C_38,364.97,US,I,False,2,Student,Family Support,No,Verified,Cleared
+39,C_39,333.63,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+40,C_40,400.23,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+41,C_41,498.72,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+42,C_42,573.52,US,I,False,3,Business Owner,Savings,No,Verified,Cleared
+43,C_43,448.78,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+44,C_44,465.04,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+45,C_45,574.09,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+46,C_46,438.21,US,I,False,3,Student,Family Support,No,Verified,Cleared
+47,C_47,513.5,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+48,C_48,447.72,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+49,C_49,593.51,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+50,C_50,560.64,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+51,C_51,489.59,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+52,C_52,416.09,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+53,C_53,464.01,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+54,C_54,501.59,US,I,False,3,Student,Savings,No,Verified,Cleared
+55,C_55,586.57,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+56,C_56,421.81,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+57,C_57,510.25,US,I,False,3,Student,Savings,No,Verified,Cleared
+58,C_58,541.31,US,I,False,3,Engineer,Salary,No,Verified,Potential Match
+59,C_59,509.49,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+60,C_60,181.45,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+61,C_61,154.03,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+62,C_62,196.38,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+63,C_63,160.32,US,I,True,4,Teacher,Salary,No,Verified,Cleared
+64,C_64,158.76,US,I,False,4,Consultant,Business Income,No,Pending,Cleared
+65,C_65,144.5,US,I,False,4,Business Owner,Savings,No,Verified,Cleared
+66,C_66,159.63,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+67,C_67,138.49,US,I,False,4,Engineer,Investment,No,Pending,Cleared
+68,C_68,157.57,US,I,False,4,Engineer,Salary,No,Verified,Cleared
+69,C_69,129.03,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+70,C_70,118.94,US,I,True,4,Business Owner,Business Income,Yes,Verified,Cleared
+71,C_71,118.67,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+72,C_72,161.28,US,I,False,4,Engineer,Investment,No,Verified,Cleared
+73,C_73,165.67,US,I,True,4,Business Owner,Savings,No,Verified,Cleared
+74,C_74,147.65,US,I,False,4,Engineer,Savings,No,Verified,Cleared
+75,C_75,108.98,US,I,False,4,Student,Savings,No,Pending,Cleared
+76,C_76,175.76,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+77,C_77,187.68,US,I,False,4,Student,Family Support,No,Verified,Cleared
+78,C_78,192.34,US,I,False,4,Software Developer,Savings,No,Verified,Cleared
+79,C_79,184.25,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+80,C_80,379.63,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+81,C_81,384.62,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+82,C_82,308.12,US,I,False,5,Teacher,Savings,No,Verified,Cleared
+83,C_83,278.26,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+84,C_84,341.06,US,I,False,5,Software Developer,Unknown,No,Verified,Cleared
+85,C_85,255.13,US,I,False,5,Teacher,Savings,No,Verified,Cleared
+86,C_86,362.33,US,I,False,5,Software Developer,Savings,Yes,Verified,Cleared
+87,C_87,369.9,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+88,C_88,379.01,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+89,C_89,317.96,US,I,False,5,Engineer,Savings,No,Rejected,Cleared
+90,C_90,389.95,US,I,False,5,Consultant,Investment,No,Verified,Cleared
+91,C_91,315.94,US,I,False,5,Software Developer,Unknown,No,Verified,Cleared
+92,C_92,290.11,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+93,C_93,332.05,US,I,True,5,Consultant,Unknown,No,Verified,Cleared
+94,C_94,399.25,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+95,C_95,383.39,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+96,C_96,358.67,US,I,False,5,Business Owner,Savings,No,Verified,Cleared
+97,C_97,216.47,US,I,False,5,Student,Savings,No,Verified,Cleared
+98,C_98,322.56,US,I,False,5,Student,Family Support,Yes,Verified,Cleared
+99,C_99,297.29,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+100,C_100,163.01,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+101,C_101,184.51,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+102,C_102,124.3,US,I,False,1,Consultant,Savings,No,Verified,Cleared
+103,C_103,173.15,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+104,C_104,111.71,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+105,C_105,122.05,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+106,C_106,179.46,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+107,C_107,133.25,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+108,C_108,181.59,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+109,C_109,110.06,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+110,C_110,114.64,US,I,False,1,Student,Family Support,No,Verified,Cleared
+111,C_111,169.77,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+112,C_112,104.52,US,I,False,1,Engineer,Salary,No,Verified,Potential Match
+113,C_113,157.39,US,I,False,1,Business Owner,Business Income,No,Pending,Cleared
+114,C_114,191.0,US,I,False,1,Consultant,Investment,No,Verified,Cleared
+115,C_115,153.42,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+116,C_116,168.06,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+117,C_117,102.67,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+118,C_118,163.5,US,I,False,1,Software Developer,Savings,No,Verified,Cleared
+119,C_119,160.63,US,I,False,1,Student,Family Support,No,Verified,Cleared
+120,C_120,315.19,US,I,False,2,Student,Family Support,No,Verified,Cleared
+121,C_121,278.24,US,I,False,2,Software Developer,Unknown,No,Verified,Cleared
+122,C_122,274.03,US,I,False,2,Student,Family Support,No,Verified,Cleared
+123,C_123,396.1,US,I,False,2,Business Owner,Savings,No,Verified,Cleared
+124,C_124,207.28,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+125,C_125,204.33,US,I,True,2,Business Owner,Investment,No,Verified,Cleared
+126,C_126,392.21,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+127,C_127,236.99,US,I,True,2,Software Developer,Savings,No,Verified,Cleared
+128,C_128,224.78,US,I,False,2,Consultant,Investment,No,Verified,Cleared
+129,C_129,242.12,US,I,False,2,Consultant,Savings,Yes,Verified,Cleared
+130,C_130,360.15,US,I,True,2,Teacher,Unknown,No,Rejected,Cleared
+131,C_131,387.39,US,I,True,2,Software Developer,Savings,No,Verified,Cleared
+132,C_132,204.56,US,I,False,2,Consultant,Salary,No,Pending,Cleared
+133,C_133,285.12,US,I,True,2,Student,Savings,Yes,Verified,Cleared
+134,C_134,220.3,US,I,False,2,Consultant,Savings,No,Verified,Potential Match
+135,C_135,251.98,US,I,False,2,Student,Family Support,Yes,Verified,Cleared
+136,C_136,244.17,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+137,C_137,329.39,US,I,True,2,Business Owner,Business Income,No,Verified,Cleared
+138,C_138,270.06,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+139,C_139,236.06,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+140,C_140,500.73,US,I,False,3,Student,Unknown,No,Verified,Cleared
+141,C_141,407.88,US,I,True,3,Engineer,Savings,No,Verified,Cleared
+142,C_142,420.18,US,I,False,3,Engineer,Salary,No,Pending,Cleared
+143,C_143,597.65,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+144,C_144,439.87,US,I,True,3,Business Owner,Business Income,No,Pending,Cleared
+145,C_145,471.71,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+146,C_146,546.32,US,I,False,3,Business Owner,Savings,No,Verified,Cleared
+147,C_147,567.67,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+148,C_148,583.7,US,I,False,3,Student,Family Support,No,Verified,Cleared
+149,C_149,433.88,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+150,C_150,534.53,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+151,C_151,593.31,US,I,True,3,Student,Family Support,No,Verified,Cleared
+152,C_152,411.61,US,I,False,3,Student,Family Support,No,Verified,Cleared
+153,C_153,535.24,US,I,False,3,Consultant,Business Income,No,Verified,Cleared
+154,C_154,569.08,US,I,False,3,Student,Savings,No,Verified,Cleared
+155,C_155,468.46,US,I,False,3,Consultant,Investment,Yes,Pending,Cleared
+156,C_156,450.14,US,I,False,3,Teacher,Savings,No,Verified,Cleared
+157,C_157,519.36,US,I,False,3,Consultant,Unknown,No,Verified,Cleared
+158,C_158,488.46,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+159,C_159,434.96,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+160,C_160,147.16,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+161,C_161,140.99,US,I,False,4,Engineer,Salary,No,Verified,Cleared
+162,C_162,156.91,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+163,C_163,150.86,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+164,C_164,131.14,US,I,False,4,Teacher,Savings,Yes,Verified,Cleared
+165,C_165,135.72,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+166,C_166,183.77,US,I,False,4,Teacher,Salary,Yes,Pending,Cleared
+167,C_167,125.09,US,I,True,4,Engineer,Salary,No,Verified,Cleared
+168,C_168,156.06,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+169,C_169,101.24,US,I,False,4,Student,Family Support,No,Verified,Cleared
+170,C_170,174.16,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+171,C_171,133.59,US,I,False,4,Student,Family Support,No,Verified,Cleared
+172,C_172,104.57,US,I,False,4,Engineer,Investment,No,Verified,Cleared
+173,C_173,128.09,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+174,C_174,124.01,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+175,C_175,195.31,US,I,True,4,Teacher,Savings,No,Verified,Cleared
+176,C_176,135.22,US,I,False,4,Consultant,Unknown,No,Pending,Cleared
+177,C_177,128.79,US,I,False,4,Business Owner,Savings,No,Verified,Potential Match
+178,C_178,135.92,US,I,False,4,Consultant,Investment,No,Verified,Cleared
+179,C_179,194.69,US,I,True,4,Engineer,Savings,No,Verified,Cleared
+180,C_180,326.75,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+181,C_181,324.22,US,I,False,5,Teacher,Savings,No,Verified,Cleared
+182,C_182,343.12,US,I,False,5,Software Developer,Savings,No,Verified,Cleared
+183,C_183,277.6,US,I,False,5,Consultant,Salary,No,Verified,Cleared
+184,C_184,282.88,US,I,False,5,Consultant,Investment,Yes,Verified,Cleared
+185,C_185,330.17,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+186,C_186,200.3,US,I,False,5,Business Owner,Unknown,No,Verified,Cleared
+187,C_187,238.46,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+188,C_188,266.88,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+189,C_189,247.88,US,I,False,5,Consultant,Unknown,No,Verified,Cleared
+190,C_190,327.48,US,I,False,5,Consultant,Business Income,No,Verified,Cleared
+191,C_191,275.73,US,I,False,5,Engineer,Salary,No,Verified,Cleared
+192,C_192,375.08,US,I,False,5,Consultant,Business Income,No,Verified,Cleared
+193,C_193,313.63,US,I,False,5,Teacher,Unknown,No,Verified,Cleared
+194,C_194,282.88,US,I,False,5,Student,Family Support,No,Verified,Cleared
+195,C_195,280.45,US,I,False,5,Engineer,Savings,No,Verified,Cleared
+196,C_196,340.37,US,I,False,5,Engineer,Salary,No,Pending,Cleared
+197,C_197,283.65,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+198,C_198,332.44,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+199,C_199,209.36,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+200,C_200,144.54,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+201,C_201,125.92,US,I,True,1,Business Owner,Business Income,No,Verified,Cleared
+202,C_202,115.77,US,I,False,1,Consultant,Investment,No,Verified,Cleared
+203,C_203,152.76,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+204,C_204,148.73,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+205,C_205,156.14,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+206,C_206,175.55,US,I,False,1,Student,Family Support,No,Verified,Cleared
+207,C_207,188.39,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+208,C_208,149.46,US,I,True,1,Consultant,Savings,No,Verified,Cleared
+209,C_209,131.21,US,I,False,1,Business Owner,Unknown,Yes,Verified,Cleared
+210,C_210,146.69,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+211,C_211,180.9,US,I,True,1,Software Developer,Savings,No,Verified,Cleared
+212,C_212,187.5,US,I,False,1,Student,Family Support,No,Verified,Cleared
+213,C_213,181.24,US,I,False,1,Consultant,Unknown,Yes,Verified,Cleared
+214,C_214,118.8,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+215,C_215,199.94,US,I,False,1,Teacher,Unknown,No,Verified,Cleared
+216,C_216,163.31,US,I,False,1,Consultant,Savings,No,Verified,Cleared
+217,C_217,108.35,US,I,False,1,Consultant,Savings,No,Verified,Cleared
+218,C_218,172.56,US,I,False,1,Student,Savings,No,Verified,Cleared
+219,C_219,198.68,US,I,False,1,Business Owner,Investment,No,Verified,Potential Match
+220,C_220,280.36,US,I,True,2,Consultant,Investment,No,Verified,Cleared
+221,C_221,335.7,US,I,True,2,Software Developer,Salary,No,Pending,Cleared
+222,C_222,263.24,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+223,C_223,242.7,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+224,C_224,343.46,US,I,False,2,Software Developer,Savings,No,Verified,Cleared
+225,C_225,200.47,US,I,False,2,Teacher,Savings,No,Verified,Potential Match
+226,C_226,364.55,US,I,False,2,Student,Family Support,No,Verified,Potential Match
+227,C_227,305.67,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+228,C_228,219.56,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+229,C_229,223.78,US,I,False,2,Teacher,Unknown,No,Verified,Cleared
+230,C_230,329.85,US,I,False,2,Student,Family Support,No,Verified,Cleared
+231,C_231,374.73,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+232,C_232,256.0,US,I,False,2,Student,Family Support,No,Verified,Cleared
+233,C_233,395.7,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+234,C_234,220.04,US,I,False,2,Business Owner,Savings,No,Verified,Cleared
+235,C_235,370.79,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+236,C_236,279.34,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+237,C_237,216.27,US,I,False,2,Teacher,Unknown,No,Verified,Cleared
+238,C_238,254.94,US,I,False,2,Engineer,Savings,No,Verified,Cleared
+239,C_239,290.6,US,I,False,2,Consultant,Savings,No,Verified,Cleared
+240,C_240,558.47,US,I,False,3,Consultant,Business Income,No,Pending,Cleared
+241,C_241,572.27,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+242,C_242,426.68,US,I,False,3,Consultant,Salary,No,Verified,Cleared
+243,C_243,504.17,US,I,False,3,Business Owner,Savings,No,Verified,Cleared
+244,C_244,530.16,US,I,True,3,Engineer,Savings,No,Verified,Cleared
+245,C_245,469.41,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+246,C_246,574.37,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+247,C_247,455.68,US,I,False,3,Software Developer,Unknown,No,Verified,Cleared
+248,C_248,403.71,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+249,C_249,408.13,US,I,True,3,Business Owner,Savings,No,Verified,Cleared
+250,C_250,536.2,US,I,False,3,Engineer,Unknown,No,Verified,Cleared
+251,C_251,511.67,US,I,True,3,Engineer,Salary,No,Verified,Cleared
+252,C_252,589.3,US,I,False,3,Teacher,Unknown,No,Verified,Cleared
+253,C_253,587.69,US,I,True,3,Engineer,Salary,No,Pending,Cleared
+254,C_254,581.97,US,I,False,3,Consultant,Business Income,No,Verified,Cleared
+255,C_255,408.4,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+256,C_256,549.83,US,I,False,3,Teacher,Salary,No,Pending,Cleared
+257,C_257,540.26,US,I,True,3,Software Developer,Investment,No,Verified,Cleared
+258,C_258,531.07,US,I,True,3,Student,Savings,No,Verified,Cleared
+259,C_259,542.47,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+260,C_260,190.27,US,I,True,4,Consultant,Salary,No,Verified,Cleared
+261,C_261,164.01,US,I,False,4,Business Owner,Savings,No,Verified,Cleared
+262,C_262,137.24,US,I,False,4,Software Developer,Savings,No,Verified,Cleared
+263,C_263,153.79,US,I,False,4,Consultant,Investment,No,Verified,Cleared
+264,C_264,120.78,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+265,C_265,158.71,US,I,False,4,Student,Family Support,No,Verified,Cleared
+266,C_266,100.89,US,I,True,4,Business Owner,Business Income,No,Verified,Cleared
+267,C_267,115.1,US,I,False,4,Student,Savings,No,Verified,Cleared
+268,C_268,133.34,US,I,False,4,Student,Savings,No,Verified,Cleared
+269,C_269,178.96,US,I,True,4,Business Owner,Business Income,No,Pending,Cleared
+270,C_270,171.85,US,I,False,4,Engineer,Unknown,No,Verified,Cleared
+271,C_271,133.83,US,I,False,4,Engineer,Savings,No,Verified,Cleared
+272,C_272,162.05,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+273,C_273,104.12,US,I,True,4,Student,Family Support,No,Verified,Cleared
+274,C_274,116.39,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+275,C_275,198.19,US,I,False,4,Student,Family Support,No,Verified,Cleared
+276,C_276,128.95,US,I,False,4,Student,Family Support,No,Verified,Cleared
+277,C_277,139.48,US,I,False,4,Student,Family Support,No,Verified,Cleared
+278,C_278,154.85,US,I,False,4,Software Developer,Unknown,No,Verified,Potential Match
+279,C_279,129.34,US,I,False,4,Engineer,Salary,No,Verified,Cleared
+280,C_280,295.61,US,I,False,5,Software Developer,Savings,No,Rejected,Cleared
+281,C_281,247.94,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+282,C_282,209.65,US,I,False,5,Software Developer,Savings,No,Verified,Cleared
+283,C_283,235.92,US,I,False,5,Engineer,Investment,No,Verified,Cleared
+284,C_284,304.61,US,I,False,5,Engineer,Unknown,No,Verified,Cleared
+285,C_285,214.17,US,I,False,5,Student,Family Support,No,Verified,Cleared
+286,C_286,280.63,US,I,False,5,Software Developer,Savings,No,Verified,Cleared
+287,C_287,265.7,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+288,C_288,282.94,US,I,False,5,Engineer,Salary,No,Pending,Cleared
+289,C_289,219.88,US,I,True,5,Business Owner,Investment,No,Verified,Cleared
+290,C_290,381.73,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+291,C_291,294.8,US,I,False,5,Business Owner,Savings,No,Verified,Cleared
+292,C_292,368.17,US,I,False,5,Consultant,Unknown,Yes,Verified,Cleared
+293,C_293,395.25,US,I,False,5,Student,Savings,No,Verified,Cleared
+294,C_294,268.73,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+295,C_295,295.82,US,I,False,5,Student,Family Support,No,Verified,Cleared
+296,C_296,339.92,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+297,C_297,285.31,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+298,C_298,260.38,US,I,True,5,Student,Family Support,No,Verified,Cleared
+299,C_299,346.95,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+300,C_300,189.44,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+301,C_301,191.97,US,I,False,1,Student,Savings,No,Verified,Cleared
+302,C_302,162.67,US,I,False,1,Consultant,Investment,No,Pending,Cleared
+303,C_303,137.56,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+304,C_304,197.46,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+305,C_305,163.89,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+306,C_306,106.58,US,I,False,1,Consultant,Savings,No,Verified,Cleared
+307,C_307,108.47,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+308,C_308,174.99,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+309,C_309,106.12,US,I,False,1,Business Owner,Unknown,No,Verified,Cleared
+310,C_310,100.79,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+311,C_311,139.38,US,I,False,1,Student,Family Support,No,Verified,Cleared
+312,C_312,151.9,US,I,False,1,Student,Family Support,No,Verified,Cleared
+313,C_313,144.85,US,I,False,1,Student,Savings,No,Verified,Cleared
+314,C_314,148.86,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+315,C_315,158.49,US,I,False,1,Student,Savings,No,Verified,Cleared
+316,C_316,167.93,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+317,C_317,142.3,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+318,C_318,136.83,US,I,False,1,Student,Family Support,No,Verified,Cleared
+319,C_319,198.85,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+320,C_320,252.18,US,I,True,2,Student,Family Support,No,Verified,Cleared
+321,C_321,355.42,US,I,False,2,Teacher,Unknown,No,Verified,Cleared
+322,C_322,286.24,US,I,False,2,Student,Savings,No,Verified,Cleared
+323,C_323,271.7,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+324,C_324,212.77,US,I,False,2,Student,Savings,No,Verified,Cleared
+325,C_325,372.72,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+326,C_326,340.4,US,I,False,2,Software Developer,Savings,No,Verified,Cleared
+327,C_327,380.6,US,I,False,2,Consultant,Savings,No,Verified,Cleared
+328,C_328,290.32,US,I,True,2,Software Developer,Salary,No,Verified,Cleared
+329,C_329,335.38,US,I,False,2,Software Developer,Unknown,No,Verified,Potential Match
+330,C_330,223.78,US,I,False,2,Student,Family Support,No,Verified,Cleared
+331,C_331,279.59,US,I,False,2,Business Owner,Investment,Yes,Verified,Cleared
+332,C_332,241.45,US,I,True,2,Business Owner,Business Income,No,Verified,Cleared
+333,C_333,208.42,US,I,False,2,Teacher,Savings,No,Verified,Cleared
+334,C_334,389.59,US,I,False,2,Business Owner,Savings,No,Verified,Cleared
+335,C_335,243.18,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+336,C_336,229.27,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+337,C_337,239.59,US,I,False,2,Software Developer,Savings,No,Verified,Cleared
+338,C_338,275.61,US,I,False,2,Consultant,Savings,No,Verified,Cleared
+339,C_339,309.28,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+340,C_340,430.27,US,I,False,3,Software Developer,Savings,Yes,Verified,Cleared
+341,C_341,597.74,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+342,C_342,596.6,US,I,False,3,Engineer,Salary,Yes,Verified,Cleared
+343,C_343,429.68,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+344,C_344,481.18,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+345,C_345,535.99,US,I,False,3,Student,Family Support,No,Verified,Cleared
+346,C_346,575.53,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+347,C_347,499.08,US,I,False,3,Consultant,Salary,No,Verified,Cleared
+348,C_348,583.41,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+349,C_349,464.49,US,I,False,3,Engineer,Salary,No,Pending,Cleared
+350,C_350,499.69,US,I,True,3,Consultant,Business Income,No,Rejected,Cleared
+351,C_351,499.73,US,I,True,3,Engineer,Salary,No,Verified,Cleared
+352,C_352,534.01,US,I,True,3,Business Owner,Business Income,No,Verified,Cleared
+353,C_353,440.4,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+354,C_354,521.95,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+355,C_355,443.75,US,I,True,3,Engineer,Investment,No,Verified,Cleared
+356,C_356,468.04,US,I,True,3,Software Developer,Salary,No,Verified,Cleared
+357,C_357,592.51,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+358,C_358,579.8,US,I,True,3,Student,Family Support,No,Verified,Cleared
+359,C_359,563.62,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+360,C_360,103.55,US,I,False,4,Consultant,Savings,No,Pending,Cleared
+361,C_361,114.84,US,I,False,4,Business Owner,Investment,No,Verified,Cleared
+362,C_362,125.69,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+363,C_363,178.42,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+364,C_364,184.23,US,I,False,4,Engineer,Salary,No,Verified,Cleared
+365,C_365,158.29,US,I,False,4,Consultant,Savings,No,Verified,Cleared
+366,C_366,171.81,US,I,False,4,Engineer,Salary,No,Verified,Cleared
+367,C_367,180.71,US,I,True,4,Student,Savings,No,Verified,Cleared
+368,C_368,106.64,US,I,True,4,Software Developer,Investment,No,Verified,Cleared
+369,C_369,108.46,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+370,C_370,186.89,US,I,False,4,Consultant,Business Income,No,Pending,Cleared
+371,C_371,103.94,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+372,C_372,122.51,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+373,C_373,104.06,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+374,C_374,101.53,US,I,False,4,Business Owner,Unknown,No,Verified,Cleared
+375,C_375,184.4,US,I,False,4,Software Developer,Investment,No,Pending,Cleared
+376,C_376,133.06,US,I,True,4,Software Developer,Salary,No,Verified,Cleared
+377,C_377,116.07,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+378,C_378,114.88,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+379,C_379,165.61,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+380,C_380,393.72,US,I,False,5,Student,Family Support,No,Verified,Cleared
+381,C_381,301.0,US,I,True,5,Business Owner,Savings,No,Verified,Cleared
+382,C_382,380.22,US,I,False,5,Software Developer,Savings,Yes,Verified,Cleared
+383,C_383,300.49,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+384,C_384,314.77,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+385,C_385,335.71,US,I,False,5,Student,Family Support,No,Verified,Cleared
+386,C_386,361.02,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+387,C_387,351.57,US,I,False,5,Engineer,Salary,No,Pending,Cleared
+388,C_388,398.11,US,I,True,5,Engineer,Investment,No,Verified,Cleared
+389,C_389,349.39,US,I,False,5,Student,Family Support,No,Verified,Cleared
+390,C_390,381.16,US,I,False,5,Consultant,Unknown,No,Verified,Cleared
+391,C_391,241.22,US,I,False,5,Consultant,Investment,Yes,Verified,Cleared
+392,C_392,307.08,US,I,False,5,Engineer,Unknown,No,Verified,Cleared
+393,C_393,319.72,US,I,False,5,Engineer,Investment,No,Verified,Cleared
+394,C_394,365.14,US,I,False,5,Consultant,Salary,No,Verified,Cleared
+395,C_395,296.44,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+396,C_396,358.21,US,I,False,5,Consultant,Savings,No,Verified,Cleared
+397,C_397,277.71,US,I,False,5,Teacher,Savings,No,Verified,Cleared
+398,C_398,317.28,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+399,C_399,370.26,US,I,False,5,Teacher,Savings,No,Verified,Cleared
+400,C_400,179.81,US,I,False,1,Engineer,Unknown,No,Verified,Cleared
+401,C_401,165.7,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+402,C_402,100.02,US,I,False,1,Teacher,Unknown,No,Verified,Cleared
+403,C_403,118.2,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+404,C_404,150.69,US,I,True,1,Business Owner,Savings,No,Verified,Cleared
+405,C_405,125.45,US,I,False,1,Student,Family Support,No,Verified,Cleared
+406,C_406,106.56,US,I,False,1,Consultant,Savings,No,Verified,Cleared
+407,C_407,185.99,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+408,C_408,194.29,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+409,C_409,130.28,US,I,False,1,Consultant,Unknown,No,Verified,Cleared
+410,C_410,140.81,US,I,True,1,Software Developer,Investment,No,Verified,Cleared
+411,C_411,181.0,US,I,False,1,Consultant,Business Income,No,Verified,Cleared
+412,C_412,106.23,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+413,C_413,164.1,US,I,False,1,Software Developer,Savings,No,Verified,Cleared
+414,C_414,112.73,US,I,True,1,Consultant,Unknown,No,Verified,Cleared
+415,C_415,128.71,US,I,False,1,Teacher,Unknown,No,Verified,Cleared
+416,C_416,182.99,US,I,False,1,Software Developer,Unknown,No,Verified,Cleared
+417,C_417,105.55,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+418,C_418,103.59,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+419,C_419,141.79,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+420,C_420,298.37,US,I,False,2,Engineer,Investment,No,Verified,Potential Match
+421,C_421,372.67,US,I,False,2,Engineer,Salary,Yes,Pending,Cleared
+422,C_422,343.44,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+423,C_423,334.71,US,I,False,2,Consultant,Savings,No,Verified,Cleared
+424,C_424,230.27,US,I,True,2,Business Owner,Savings,No,Pending,Cleared
+425,C_425,397.34,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+426,C_426,282.23,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+427,C_427,322.35,US,I,False,2,Consultant,Business Income,No,Verified,Cleared
+428,C_428,277.34,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+429,C_429,209.41,US,I,False,2,Software Developer,Investment,No,Pending,Cleared
+430,C_430,294.18,US,I,False,2,Teacher,Savings,No,Verified,Cleared
+431,C_431,230.27,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+432,C_432,206.49,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+433,C_433,323.48,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+434,C_434,325.99,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+435,C_435,221.06,US,I,False,2,Consultant,Savings,Yes,Verified,Cleared
+436,C_436,309.83,US,I,False,2,Student,Savings,No,Verified,Cleared
+437,C_437,269.33,US,I,False,2,Teacher,Savings,No,Verified,Cleared
+438,C_438,276.68,US,I,False,2,Engineer,Unknown,No,Verified,Cleared
+439,C_439,355.28,US,I,False,2,Engineer,Savings,No,Verified,Cleared
+440,C_440,498.06,US,I,False,3,Software Developer,Savings,No,Verified,Cleared
+441,C_441,576.26,US,I,False,3,Student,Unknown,No,Verified,Cleared
+442,C_442,522.02,US,I,False,3,Teacher,Savings,No,Verified,Cleared
+443,C_443,493.44,US,I,False,3,Engineer,Salary,No,Pending,Cleared
+444,C_444,526.46,US,I,False,3,Engineer,Salary,Yes,Verified,Cleared
+445,C_445,467.57,US,I,True,3,Teacher,Savings,No,Verified,Cleared
+446,C_446,424.86,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+447,C_447,536.51,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+448,C_448,524.41,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+449,C_449,557.71,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+450,C_450,425.42,US,I,False,3,Software Developer,Savings,No,Pending,Cleared
+451,C_451,582.36,US,I,True,3,Student,Family Support,No,Verified,Cleared
+452,C_452,559.87,US,I,True,3,Consultant,Salary,No,Verified,Cleared
+453,C_453,583.38,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+454,C_454,574.51,US,I,False,3,Student,Savings,No,Verified,Cleared
+455,C_455,536.2,US,I,False,3,Consultant,Unknown,No,Pending,Cleared
+456,C_456,562.05,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+457,C_457,503.8,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+458,C_458,557.1,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+459,C_459,437.83,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+460,C_460,178.21,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+461,C_461,144.46,US,I,False,4,Consultant,Savings,No,Verified,Cleared
+462,C_462,175.66,US,I,False,4,Engineer,Investment,No,Pending,Cleared
+463,C_463,145.55,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+464,C_464,178.96,US,I,False,4,Consultant,Investment,No,Verified,Cleared
+465,C_465,107.53,US,I,False,4,Consultant,Investment,Yes,Pending,Cleared
+466,C_466,104.46,US,I,False,4,Business Owner,Savings,Yes,Verified,Cleared
+467,C_467,193.43,US,I,False,4,Student,Unknown,No,Verified,Cleared
+468,C_468,148.62,US,I,False,4,Business Owner,Savings,No,Verified,Cleared
+469,C_469,190.11,US,I,True,4,Engineer,Salary,No,Verified,Cleared
+470,C_470,194.48,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+471,C_471,166.65,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+472,C_472,157.18,US,I,False,4,Engineer,Salary,No,Pending,Cleared
+473,C_473,121.6,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+474,C_474,109.35,US,I,False,4,Business Owner,Unknown,No,Verified,Cleared
+475,C_475,181.94,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+476,C_476,188.88,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+477,C_477,177.94,US,I,False,4,Software Developer,Unknown,No,Pending,Cleared
+478,C_478,169.85,US,I,False,4,Engineer,Investment,No,Verified,Cleared
+479,C_479,142.01,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+480,C_480,261.06,US,I,False,5,Consultant,Investment,No,Verified,Cleared
+481,C_481,222.69,US,I,False,5,Student,Unknown,No,Verified,Cleared
+482,C_482,285.19,US,I,False,5,Consultant,Savings,No,Verified,Cleared
+483,C_483,313.2,US,I,False,5,Software Developer,Savings,No,Pending,Cleared
+484,C_484,384.58,US,I,True,5,Business Owner,Savings,No,Verified,Cleared
+485,C_485,387.15,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+486,C_486,283.13,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+487,C_487,219.84,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+488,C_488,354.76,US,I,True,5,Student,Savings,No,Verified,Cleared
+489,C_489,346.86,US,I,False,5,Engineer,Salary,No,Verified,Cleared
+490,C_490,206.14,US,I,True,5,Business Owner,Business Income,No,Verified,Cleared
+491,C_491,289.34,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+492,C_492,337.28,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+493,C_493,206.03,US,I,False,5,Student,Savings,No,Verified,Cleared
+494,C_494,383.86,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+495,C_495,392.45,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+496,C_496,344.51,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+497,C_497,215.71,US,I,False,5,Teacher,Savings,Yes,Verified,Cleared
+498,C_498,214.07,US,I,False,5,Business Owner,Savings,No,Verified,Cleared
+499,C_499,271.85,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+500,C_500,102.94,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+501,C_501,134.79,US,I,False,1,Student,Savings,No,Verified,Cleared
+502,C_502,101.0,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+503,C_503,197.43,US,I,False,1,Student,Savings,No,Verified,Cleared
+504,C_504,181.9,US,I,False,1,Business Owner,Business Income,No,Rejected,Cleared
+505,C_505,107.05,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+506,C_506,189.34,US,I,False,1,Student,Family Support,No,Verified,Cleared
+507,C_507,120.8,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+508,C_508,120.48,US,I,False,1,Teacher,Unknown,No,Verified,Cleared
+509,C_509,167.38,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+510,C_510,193.83,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+511,C_511,112.32,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+512,C_512,100.72,US,I,False,1,Software Developer,Salary,No,Rejected,Cleared
+513,C_513,136.91,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+514,C_514,102.47,US,I,False,1,Student,Family Support,No,Verified,Cleared
+515,C_515,160.48,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+516,C_516,185.92,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+517,C_517,118.7,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+518,C_518,111.24,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+519,C_519,134.44,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+520,C_520,391.83,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+521,C_521,226.03,US,I,False,2,Consultant,Investment,No,Pending,Cleared
+522,C_522,393.3,US,I,False,2,Student,Family Support,No,Verified,Cleared
+523,C_523,272.45,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+524,C_524,294.67,US,I,False,2,Consultant,Savings,Yes,Verified,Cleared
+525,C_525,258.53,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+526,C_526,387.43,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+527,C_527,391.63,US,I,False,2,Engineer,Savings,No,Verified,Cleared
+528,C_528,327.18,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+529,C_529,236.81,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+530,C_530,398.59,US,I,False,2,Consultant,Business Income,Yes,Verified,Cleared
+531,C_531,220.52,US,I,False,2,Teacher,Unknown,No,Verified,Cleared
+532,C_532,316.17,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+533,C_533,231.28,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+534,C_534,379.54,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+535,C_535,389.14,US,I,False,2,Student,Family Support,No,Verified,Cleared
+536,C_536,360.88,US,I,True,2,Teacher,Salary,No,Verified,Cleared
+537,C_537,263.18,US,I,False,2,Software Developer,Savings,No,Verified,Cleared
+538,C_538,248.57,US,I,False,2,Teacher,Unknown,No,Verified,Cleared
+539,C_539,350.97,US,I,False,2,Student,Savings,No,Verified,Cleared
+540,C_540,458.21,US,I,True,3,Consultant,Unknown,No,Pending,Cleared
+541,C_541,483.96,US,I,False,3,Consultant,Investment,Yes,Verified,Cleared
+542,C_542,409.25,US,I,True,3,Engineer,Savings,No,Verified,Cleared
+543,C_543,426.45,US,I,False,3,Student,Savings,No,Verified,Cleared
+544,C_544,404.11,US,I,False,3,Consultant,Salary,No,Pending,Cleared
+545,C_545,415.58,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+546,C_546,414.64,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+547,C_547,484.05,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+548,C_548,510.16,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+549,C_549,548.18,US,I,False,3,Student,Family Support,No,Verified,Cleared
+550,C_550,428.46,US,I,False,3,Engineer,Unknown,No,Verified,Cleared
+551,C_551,484.44,US,I,False,3,Consultant,Savings,No,Pending,Cleared
+552,C_552,527.39,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+553,C_553,416.91,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+554,C_554,488.96,US,I,False,3,Software Developer,Investment,No,Verified,Potential Match
+555,C_555,473.85,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+556,C_556,589.79,US,I,False,3,Software Developer,Savings,No,Verified,Potential Match
+557,C_557,411.57,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+558,C_558,481.73,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+559,C_559,483.45,US,I,False,3,Teacher,Savings,No,Verified,Cleared
+560,C_560,172.82,US,I,False,4,Student,Family Support,No,Verified,Cleared
+561,C_561,132.07,US,I,False,4,Engineer,Salary,No,Pending,Cleared
+562,C_562,120.4,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+563,C_563,129.33,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+564,C_564,147.09,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+565,C_565,195.03,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+566,C_566,179.65,US,I,False,4,Software Developer,Savings,No,Verified,Cleared
+567,C_567,127.7,US,I,False,4,Engineer,Unknown,No,Verified,Cleared
+568,C_568,155.82,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+569,C_569,168.82,US,I,False,4,Teacher,Salary,Yes,Verified,Cleared
+570,C_570,179.57,US,I,True,4,Consultant,Business Income,No,Pending,Cleared
+571,C_571,144.62,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+572,C_572,139.88,US,I,False,4,Software Developer,Savings,No,Verified,Cleared
+573,C_573,176.76,US,I,False,4,Student,Savings,No,Verified,Cleared
+574,C_574,143.17,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+575,C_575,124.8,US,I,False,4,Student,Family Support,No,Verified,Cleared
+576,C_576,145.34,US,I,True,4,Software Developer,Savings,No,Verified,Cleared
+577,C_577,193.71,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+578,C_578,114.26,US,I,True,4,Consultant,Investment,No,Pending,Cleared
+579,C_579,146.24,US,I,False,4,Business Owner,Savings,No,Verified,Cleared
+580,C_580,327.46,US,I,False,5,Business Owner,Savings,No,Verified,Cleared
+581,C_581,296.66,US,I,False,5,Student,Family Support,No,Verified,Cleared
+582,C_582,240.73,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+583,C_583,200.37,US,I,False,5,Student,Family Support,No,Verified,Cleared
+584,C_584,339.8,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+585,C_585,323.75,US,I,True,5,Software Developer,Salary,No,Verified,Cleared
+586,C_586,201.56,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+587,C_587,259.71,US,I,False,5,Consultant,Savings,No,Verified,Cleared
+588,C_588,353.73,US,I,True,5,Consultant,Savings,No,Verified,Cleared
+589,C_589,325.78,US,I,True,5,Teacher,Savings,No,Verified,Cleared
+590,C_590,309.04,US,I,False,5,Student,Family Support,No,Verified,Cleared
+591,C_591,231.24,US,I,False,5,Consultant,Investment,No,Verified,Cleared
+592,C_592,341.26,US,I,False,5,Engineer,Salary,No,Verified,Cleared
+593,C_593,294.29,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+594,C_594,335.64,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+595,C_595,352.02,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+596,C_596,246.47,US,I,True,5,Student,Savings,No,Verified,Cleared
+597,C_597,352.4,US,I,False,5,Consultant,Business Income,Yes,Verified,Cleared
+598,C_598,256.02,US,I,False,5,Consultant,Savings,No,Verified,Cleared
+599,C_599,396.8,US,I,False,5,Software Developer,Investment,No,Verified,Cleared
+600,C_600,112.08,US,I,True,1,Teacher,Savings,No,Verified,Cleared
+601,C_601,188.37,US,I,False,1,Student,Family Support,No,Verified,Cleared
+602,C_602,104.05,US,I,False,1,Student,Savings,No,Verified,Cleared
+603,C_603,125.66,US,I,False,1,Student,Family Support,No,Verified,Cleared
+604,C_604,152.61,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+605,C_605,158.16,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+606,C_606,139.62,US,I,False,1,Consultant,Salary,No,Verified,Cleared
+607,C_607,110.2,US,I,False,1,Student,Unknown,No,Verified,Cleared
+608,C_608,125.26,US,I,True,1,Software Developer,Salary,No,Verified,Cleared
+609,C_609,128.34,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+610,C_610,175.52,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+611,C_611,190.88,US,I,False,1,Engineer,Savings,No,Verified,Cleared
+612,C_612,159.54,US,I,False,1,Teacher,Unknown,No,Verified,Cleared
+613,C_613,103.55,US,I,False,1,Consultant,Salary,No,Verified,Cleared
+614,C_614,179.22,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+615,C_615,130.56,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+616,C_616,133.99,US,I,False,1,Consultant,Business Income,No,Verified,Cleared
+617,C_617,153.02,US,I,True,1,Teacher,Salary,No,Verified,Cleared
+618,C_618,124.9,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+619,C_619,192.0,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+620,C_620,232.71,US,I,True,2,Software Developer,Salary,No,Verified,Cleared
+621,C_621,282.97,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+622,C_622,257.94,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+623,C_623,303.97,US,I,False,2,Business Owner,Business Income,No,Verified,Cleared
+624,C_624,314.8,US,I,False,2,Business Owner,Savings,No,Verified,Cleared
+625,C_625,325.43,US,I,False,2,Engineer,Investment,No,Pending,Cleared
+626,C_626,306.28,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+627,C_627,282.16,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+628,C_628,326.92,US,I,False,2,Student,Family Support,No,Verified,Cleared
+629,C_629,280.68,US,I,False,2,Consultant,Investment,No,Verified,Cleared
+630,C_630,355.71,US,I,False,2,Engineer,Unknown,No,Verified,Cleared
+631,C_631,357.64,US,I,False,2,Student,Family Support,No,Verified,Cleared
+632,C_632,258.45,US,I,False,2,Student,Savings,No,Verified,Cleared
+633,C_633,274.36,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+634,C_634,325.76,US,I,False,2,Consultant,Investment,Yes,Verified,Cleared
+635,C_635,231.41,US,I,False,2,Business Owner,Savings,No,Verified,Cleared
+636,C_636,339.41,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+637,C_637,276.29,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+638,C_638,318.21,US,I,False,2,Student,Unknown,No,Pending,Cleared
+639,C_639,227.91,US,I,False,2,Student,Family Support,No,Verified,Cleared
+640,C_640,533.65,US,I,False,3,Student,Family Support,No,Verified,Cleared
+641,C_641,470.81,US,I,True,3,Business Owner,Savings,No,Verified,Cleared
+642,C_642,494.53,US,I,False,3,Business Owner,Business Income,No,Pending,Cleared
+643,C_643,483.02,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+644,C_644,495.34,US,I,True,3,Software Developer,Salary,No,Verified,Cleared
+645,C_645,538.94,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+646,C_646,463.65,US,I,False,3,Engineer,Investment,No,Verified,Cleared
+647,C_647,530.41,US,I,False,3,Student,Savings,No,Verified,Cleared
+648,C_648,412.04,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+649,C_649,460.04,US,I,False,3,Business Owner,Savings,No,Verified,Cleared
+650,C_650,549.04,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+651,C_651,410.48,US,I,True,3,Consultant,Business Income,No,Verified,Cleared
+652,C_652,524.23,US,I,False,3,Student,Family Support,No,Verified,Cleared
+653,C_653,405.11,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+654,C_654,494.31,US,I,True,3,Consultant,Investment,Yes,Verified,Cleared
+655,C_655,577.71,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+656,C_656,402.02,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+657,C_657,505.37,US,I,False,3,Student,Savings,No,Verified,Cleared
+658,C_658,413.29,US,I,False,3,Business Owner,Business Income,No,Pending,Cleared
+659,C_659,573.42,US,I,False,3,Student,Unknown,No,Verified,Cleared
+660,C_660,168.63,US,I,False,4,Software Developer,Salary,No,Verified,Potential Match
+661,C_661,174.2,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+662,C_662,166.9,US,I,False,4,Consultant,Investment,No,Verified,Cleared
+663,C_663,100.64,US,I,False,4,Consultant,Business Income,No,Verified,Cleared
+664,C_664,104.12,US,I,True,4,Teacher,Salary,No,Verified,Cleared
+665,C_665,162.09,US,I,False,4,Student,Savings,No,Verified,Cleared
+666,C_666,199.97,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+667,C_667,187.31,US,I,False,4,Software Developer,Savings,No,Verified,Cleared
+668,C_668,169.97,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+669,C_669,172.71,US,I,True,4,Student,Savings,No,Verified,Cleared
+670,C_670,122.67,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+671,C_671,175.16,US,I,False,4,Student,Family Support,No,Verified,Cleared
+672,C_672,128.79,US,I,False,4,Business Owner,Unknown,No,Verified,Cleared
+673,C_673,110.55,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+674,C_674,146.09,US,I,False,4,Student,Savings,No,Verified,Cleared
+675,C_675,133.02,US,I,False,4,Student,Family Support,No,Verified,Cleared
+676,C_676,116.83,US,I,False,4,Teacher,Unknown,No,Pending,Cleared
+677,C_677,142.17,US,I,False,4,Business Owner,Investment,No,Verified,Cleared
+678,C_678,189.72,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+679,C_679,143.53,US,I,True,4,Teacher,Savings,No,Verified,Cleared
+680,C_680,289.46,US,I,False,5,Consultant,Investment,No,Verified,Cleared
+681,C_681,341.77,US,I,False,5,Student,Family Support,No,Verified,Cleared
+682,C_682,304.83,US,I,True,5,Software Developer,Savings,No,Verified,Cleared
+683,C_683,225.84,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+684,C_684,382.08,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+685,C_685,288.82,US,I,False,5,Student,Savings,Yes,Verified,Cleared
+686,C_686,357.87,US,I,False,5,Engineer,Salary,No,Pending,Cleared
+687,C_687,277.78,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+688,C_688,361.37,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+689,C_689,277.91,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+690,C_690,244.03,US,I,True,5,Teacher,Savings,No,Verified,Cleared
+691,C_691,239.24,US,I,True,5,Teacher,Salary,No,Verified,Cleared
+692,C_692,388.01,US,I,True,5,Teacher,Salary,No,Verified,Cleared
+693,C_693,317.31,US,I,False,5,Consultant,Business Income,No,Verified,Cleared
+694,C_694,209.96,US,I,False,5,Engineer,Unknown,No,Verified,Cleared
+695,C_695,277.67,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+696,C_696,246.81,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+697,C_697,216.93,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+698,C_698,237.35,US,I,False,5,Student,Family Support,No,Verified,Cleared
+699,C_699,211.4,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+700,C_700,163.81,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+701,C_701,117.34,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+702,C_702,161.08,US,I,True,1,Business Owner,Business Income,No,Verified,Cleared
+703,C_703,161.25,US,I,False,1,Engineer,Savings,No,Verified,Potential Match
+704,C_704,170.49,US,I,False,1,Student,Savings,No,Verified,Cleared
+705,C_705,151.21,US,I,False,1,Student,Savings,No,Verified,Cleared
+706,C_706,128.44,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+707,C_707,187.75,US,I,True,1,Consultant,Business Income,No,Verified,Cleared
+708,C_708,135.31,US,I,False,1,Student,Family Support,No,Verified,Cleared
+709,C_709,145.83,US,I,False,1,Student,Savings,No,Verified,Cleared
+710,C_710,163.19,US,I,False,1,Engineer,Savings,Yes,Verified,Cleared
+711,C_711,151.61,US,I,False,1,Business Owner,Business Income,No,Verified,Cleared
+712,C_712,195.65,US,I,False,1,Student,Family Support,No,Verified,Cleared
+713,C_713,195.47,US,I,False,1,Student,Family Support,No,Verified,Cleared
+714,C_714,192.98,US,I,False,1,Consultant,Investment,No,Verified,Cleared
+715,C_715,193.41,US,I,False,1,Software Developer,Investment,No,Verified,Cleared
+716,C_716,158.1,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+717,C_717,149.02,US,I,True,1,Consultant,Investment,No,Verified,Cleared
+718,C_718,170.41,US,I,False,1,Student,Savings,No,Verified,Cleared
+719,C_719,121.54,US,I,False,1,Student,Family Support,No,Verified,Cleared
+720,C_720,253.17,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+721,C_721,208.76,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+722,C_722,232.57,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+723,C_723,200.77,US,I,False,2,Student,Family Support,No,Verified,Cleared
+724,C_724,330.93,US,I,False,2,Student,Family Support,No,Verified,Cleared
+725,C_725,228.08,US,I,True,2,Consultant,Salary,No,Verified,Cleared
+726,C_726,357.34,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+727,C_727,336.1,US,I,False,2,Software Developer,Unknown,No,Pending,Cleared
+728,C_728,394.14,US,I,False,2,Consultant,Investment,No,Verified,Cleared
+729,C_729,279.3,US,I,False,2,Consultant,Salary,No,Verified,Cleared
+730,C_730,384.28,US,I,True,2,Business Owner,Business Income,No,Verified,Cleared
+731,C_731,290.74,US,I,False,2,Student,Savings,No,Verified,Cleared
+732,C_732,267.9,US,I,True,2,Business Owner,Business Income,No,Verified,Cleared
+733,C_733,220.47,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+734,C_734,376.57,US,I,False,2,Student,Family Support,No,Verified,Cleared
+735,C_735,358.96,US,I,False,2,Student,Family Support,No,Verified,Cleared
+736,C_736,264.59,US,I,False,2,Engineer,Salary,No,Pending,Cleared
+737,C_737,291.15,US,I,False,2,Student,Family Support,No,Verified,Cleared
+738,C_738,265.03,US,I,False,2,Teacher,Savings,No,Verified,Cleared
+739,C_739,205.77,US,I,False,2,Software Developer,Salary,No,Pending,Cleared
+740,C_740,408.87,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+741,C_741,473.74,US,I,False,3,Student,Family Support,No,Verified,Cleared
+742,C_742,441.92,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+743,C_743,504.9,US,I,False,3,Business Owner,Savings,No,Pending,Cleared
+744,C_744,437.56,US,I,False,3,Student,Family Support,No,Verified,Cleared
+745,C_745,440.32,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+746,C_746,534.53,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+747,C_747,547.12,US,I,False,3,Consultant,Savings,No,Verified,Cleared
+748,C_748,462.45,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+749,C_749,572.0,US,I,True,3,Student,Family Support,No,Verified,Cleared
+750,C_750,450.93,US,I,False,3,Consultant,Salary,No,Verified,Cleared
+751,C_751,468.79,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+752,C_752,542.5,US,I,True,3,Software Developer,Salary,No,Verified,Cleared
+753,C_753,408.9,US,I,True,3,Engineer,Investment,No,Pending,Cleared
+754,C_754,586.84,US,I,False,3,Engineer,Salary,No,Verified,Cleared
+755,C_755,414.47,US,I,True,3,Software Developer,Investment,No,Verified,Cleared
+756,C_756,492.19,US,I,False,3,Student,Family Support,No,Verified,Cleared
+757,C_757,544.92,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+758,C_758,409.49,US,I,False,3,Student,Savings,No,Verified,Cleared
+759,C_759,561.8,US,I,True,3,Business Owner,Business Income,No,Verified,Cleared
+760,C_760,197.89,US,I,False,4,Engineer,Investment,No,Verified,Cleared
+761,C_761,146.05,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+762,C_762,111.81,US,I,False,4,Student,Family Support,No,Verified,Cleared
+763,C_763,108.15,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+764,C_764,109.87,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+765,C_765,176.54,US,I,False,4,Student,Family Support,No,Verified,Cleared
+766,C_766,141.4,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+767,C_767,191.92,US,I,False,4,Teacher,Savings,No,Pending,Cleared
+768,C_768,144.06,US,I,False,4,Student,Family Support,No,Verified,Cleared
+769,C_769,107.71,US,I,False,4,Teacher,Unknown,No,Verified,Cleared
+770,C_770,142.69,US,I,False,4,Student,Savings,No,Verified,Cleared
+771,C_771,175.48,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+772,C_772,182.93,US,I,False,4,Engineer,Unknown,No,Rejected,Cleared
+773,C_773,103.94,US,I,False,4,Student,Savings,No,Verified,Cleared
+774,C_774,118.04,US,I,False,4,Engineer,Unknown,No,Verified,Cleared
+775,C_775,149.0,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+776,C_776,112.81,US,I,False,4,Consultant,Unknown,No,Pending,Cleared
+777,C_777,187.11,US,I,False,4,Engineer,Investment,No,Verified,Cleared
+778,C_778,193.45,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+779,C_779,131.96,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+780,C_780,286.97,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+781,C_781,311.41,US,I,False,5,Engineer,Savings,No,Verified,Cleared
+782,C_782,257.1,US,I,True,5,Software Developer,Investment,No,Verified,Cleared
+783,C_783,308.22,US,I,True,5,Engineer,Salary,No,Verified,Cleared
+784,C_784,240.24,US,I,True,5,Engineer,Investment,No,Verified,Cleared
+785,C_785,259.33,US,I,True,5,Business Owner,Business Income,Yes,Verified,Cleared
+786,C_786,288.36,US,I,False,5,Business Owner,Business Income,No,Pending,Cleared
+787,C_787,320.93,US,I,False,5,Engineer,Salary,No,Verified,Cleared
+788,C_788,307.23,US,I,False,5,Consultant,Salary,No,Verified,Cleared
+789,C_789,252.2,US,I,False,5,Business Owner,Investment,No,Verified,Cleared
+790,C_790,246.36,US,I,False,5,Business Owner,Unknown,No,Pending,Cleared
+791,C_791,223.75,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+792,C_792,356.7,US,I,False,5,Student,Family Support,Yes,Verified,Cleared
+793,C_793,219.78,US,I,True,5,Software Developer,Savings,Yes,Pending,Cleared
+794,C_794,346.58,US,I,False,5,Engineer,Savings,No,Verified,Cleared
+795,C_795,249.75,US,I,False,5,Consultant,Salary,No,Verified,Cleared
+796,C_796,256.91,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+797,C_797,347.22,US,I,False,5,Student,Savings,No,Verified,Cleared
+798,C_798,331.92,US,I,False,5,Software Developer,Savings,No,Verified,Cleared
+799,C_799,348.38,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+800,C_800,151.53,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+801,C_801,185.91,US,I,True,1,Business Owner,Business Income,No,Verified,Cleared
+802,C_802,112.18,US,I,False,1,Consultant,Unknown,Yes,Pending,Cleared
+803,C_803,164.52,US,I,False,1,Consultant,Business Income,No,Verified,Cleared
+804,C_804,111.82,US,I,False,1,Software Developer,Savings,No,Verified,Cleared
+805,C_805,173.73,US,I,False,1,Software Developer,Investment,No,Verified,Cleared
+806,C_806,135.89,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+807,C_807,167.49,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+808,C_808,170.35,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+809,C_809,166.06,US,I,False,1,Engineer,Salary,No,Verified,Cleared
+810,C_810,122.16,US,I,False,1,Consultant,Salary,No,Verified,Cleared
+811,C_811,183.18,US,I,True,1,Engineer,Unknown,No,Verified,Cleared
+812,C_812,124.01,US,I,False,1,Teacher,Salary,No,Verified,Cleared
+813,C_813,151.82,US,I,True,1,Consultant,Salary,No,Verified,Cleared
+814,C_814,167.46,US,I,True,1,Software Developer,Savings,No,Verified,Cleared
+815,C_815,123.36,US,I,True,1,Student,Unknown,No,Verified,Cleared
+816,C_816,162.85,US,I,False,1,Student,Family Support,Yes,Verified,Cleared
+817,C_817,128.68,US,I,False,1,Software Developer,Savings,No,Verified,Cleared
+818,C_818,117.14,US,I,False,1,Business Owner,Savings,No,Verified,Cleared
+819,C_819,180.97,US,I,True,1,Engineer,Investment,No,Verified,Cleared
+820,C_820,310.62,US,I,False,2,Consultant,Investment,Yes,Verified,Cleared
+821,C_821,265.58,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+822,C_822,317.09,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+823,C_823,205.06,US,I,True,2,Business Owner,Business Income,No,Verified,Cleared
+824,C_824,225.96,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+825,C_825,279.12,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+826,C_826,395.15,US,I,False,2,Teacher,Unknown,No,Verified,Cleared
+827,C_827,302.09,US,I,False,2,Software Developer,Investment,No,Verified,Potential Match
+828,C_828,215.29,US,I,False,2,Consultant,Savings,No,Verified,Cleared
+829,C_829,353.01,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+830,C_830,356.29,US,I,False,2,Consultant,Investment,Yes,Verified,Cleared
+831,C_831,354.96,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+832,C_832,313.9,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+833,C_833,339.14,US,I,False,2,Consultant,Salary,Yes,Verified,Cleared
+834,C_834,242.69,US,I,False,2,Student,Family Support,No,Verified,Cleared
+835,C_835,346.51,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+836,C_836,363.23,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+837,C_837,351.99,US,I,False,2,Engineer,Salary,No,Verified,Cleared
+838,C_838,270.69,US,I,False,2,Consultant,Business Income,No,Verified,Cleared
+839,C_839,318.21,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+840,C_840,525.8,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+841,C_841,580.16,US,I,False,3,Engineer,Unknown,Yes,Verified,Cleared
+842,C_842,421.6,US,I,True,3,Student,Family Support,No,Verified,Cleared
+843,C_843,566.79,US,I,False,3,Student,Family Support,No,Verified,Cleared
+844,C_844,505.29,US,I,True,3,Engineer,Salary,No,Verified,Cleared
+845,C_845,471.72,US,I,False,3,Student,Family Support,No,Verified,Cleared
+846,C_846,491.12,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+847,C_847,402.53,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+848,C_848,444.01,US,I,False,3,Student,Family Support,No,Verified,Cleared
+849,C_849,530.55,US,I,False,3,Software Developer,Savings,No,Verified,Cleared
+850,C_850,532.17,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+851,C_851,498.94,US,I,False,3,Student,Family Support,No,Verified,Cleared
+852,C_852,590.67,US,I,False,3,Business Owner,Investment,No,Pending,Cleared
+853,C_853,496.18,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+854,C_854,462.79,US,I,False,3,Consultant,Business Income,No,Pending,Cleared
+855,C_855,569.56,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+856,C_856,451.83,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+857,C_857,520.86,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+858,C_858,540.68,US,I,False,3,Consultant,Business Income,No,Verified,Cleared
+859,C_859,564.34,US,I,False,3,Student,Family Support,No,Verified,Cleared
+860,C_860,178.54,US,I,False,4,Student,Family Support,No,Verified,Cleared
+861,C_861,138.41,US,I,False,4,Student,Savings,No,Verified,Cleared
+862,C_862,105.92,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+863,C_863,103.83,US,I,False,4,Consultant,Salary,No,Verified,Cleared
+864,C_864,172.65,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+865,C_865,196.17,US,I,True,4,Teacher,Salary,No,Verified,Cleared
+866,C_866,134.32,US,I,False,4,Business Owner,Savings,Yes,Verified,Cleared
+867,C_867,144.12,US,I,False,4,Engineer,Salary,No,Verified,Cleared
+868,C_868,172.58,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+869,C_869,165.78,US,I,False,4,Student,Family Support,No,Verified,Cleared
+870,C_870,126.01,US,I,False,4,Business Owner,Business Income,No,Verified,Cleared
+871,C_871,167.16,US,I,False,4,Student,Family Support,No,Verified,Cleared
+872,C_872,130.49,US,I,False,4,Consultant,Unknown,No,Verified,Cleared
+873,C_873,135.64,US,I,False,4,Consultant,Investment,Yes,Verified,Cleared
+874,C_874,153.95,US,I,True,4,Software Developer,Savings,No,Verified,Cleared
+875,C_875,173.23,US,I,False,4,Student,Family Support,No,Verified,Cleared
+876,C_876,115.12,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+877,C_877,102.2,US,I,True,4,Engineer,Salary,No,Verified,Cleared
+878,C_878,162.78,US,I,True,4,Student,Family Support,No,Verified,Cleared
+879,C_879,102.46,US,I,False,4,Teacher,Salary,No,Pending,Potential Match
+880,C_880,208.99,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+881,C_881,245.16,US,I,True,5,Student,Savings,No,Verified,Cleared
+882,C_882,330.78,US,I,False,5,Business Owner,Investment,No,Pending,Cleared
+883,C_883,213.31,US,I,True,5,Teacher,Salary,No,Verified,Cleared
+884,C_884,212.48,US,I,False,5,Teacher,Salary,No,Rejected,Cleared
+885,C_885,394.42,US,I,True,5,Teacher,Salary,No,Verified,Cleared
+886,C_886,284.53,US,I,False,5,Teacher,Savings,No,Verified,Cleared
+887,C_887,378.49,US,I,False,5,Consultant,Business Income,No,Verified,Cleared
+888,C_888,243.3,US,I,True,5,Software Developer,Savings,No,Verified,Cleared
+889,C_889,287.04,US,I,True,5,Teacher,Savings,No,Verified,Cleared
+890,C_890,271.61,US,I,False,5,Consultant,Business Income,Yes,Verified,Cleared
+891,C_891,235.39,US,I,False,5,Engineer,Salary,No,Pending,Cleared
+892,C_892,265.76,US,I,False,5,Consultant,Savings,No,Pending,Cleared
+893,C_893,397.36,US,I,False,5,Business Owner,Business Income,No,Verified,Cleared
+894,C_894,349.46,US,I,False,5,Engineer,Salary,No,Verified,Cleared
+895,C_895,276.53,US,I,False,5,Business Owner,Savings,No,Verified,Cleared
+896,C_896,281.86,US,I,False,5,Software Developer,Salary,No,Verified,Cleared
+897,C_897,252.75,US,I,False,5,Student,Family Support,No,Verified,Cleared
+898,C_898,306.27,US,I,False,5,Student,Family Support,No,Verified,Cleared
+899,C_899,347.13,US,I,False,5,Consultant,Investment,No,Verified,Cleared
+900,C_900,168.66,US,I,False,1,Business Owner,Unknown,No,Verified,Cleared
+901,C_901,146.26,US,I,True,1,Software Developer,Unknown,No,Verified,Cleared
+902,C_902,104.19,US,I,False,1,Student,Family Support,No,Verified,Cleared
+903,C_903,192.15,US,I,True,1,Software Developer,Salary,No,Pending,Cleared
+904,C_904,140.89,US,I,False,1,Software Developer,Salary,No,Verified,Cleared
+905,C_905,139.03,US,I,True,1,Student,Savings,No,Verified,Cleared
+906,C_906,100.31,US,I,False,1,Student,Savings,No,Verified,Cleared
+907,C_907,113.82,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+908,C_908,186.89,US,I,False,1,Engineer,Investment,No,Verified,Cleared
+909,C_909,151.39,US,I,True,1,Teacher,Salary,No,Verified,Cleared
+910,C_910,173.24,US,I,True,1,Business Owner,Investment,No,Verified,Cleared
+911,C_911,114.82,US,I,True,1,Student,Savings,No,Pending,Cleared
+912,C_912,133.01,US,I,False,1,Software Developer,Salary,No,Verified,Potential Match
+913,C_913,184.01,US,I,False,1,Business Owner,Investment,No,Verified,Cleared
+914,C_914,182.07,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+915,C_915,124.68,US,I,True,1,Software Developer,Investment,No,Verified,Cleared
+916,C_916,102.2,US,I,False,1,Consultant,Salary,No,Verified,Cleared
+917,C_917,180.65,US,I,False,1,Teacher,Savings,No,Verified,Cleared
+918,C_918,116.88,US,I,True,1,Student,Family Support,No,Verified,Cleared
+919,C_919,178.77,US,I,True,1,Consultant,Salary,No,Verified,Cleared
+920,C_920,336.73,US,I,False,2,Consultant,Investment,No,Verified,Cleared
+921,C_921,233.66,US,I,False,2,Teacher,Savings,No,Pending,Cleared
+922,C_922,215.7,US,I,False,2,Student,Family Support,No,Verified,Potential Match
+923,C_923,385.53,US,I,True,2,Software Developer,Salary,No,Verified,Cleared
+924,C_924,319.58,US,I,False,2,Consultant,Investment,No,Verified,Cleared
+925,C_925,324.1,US,I,False,2,Teacher,Savings,No,Verified,Cleared
+926,C_926,291.5,US,I,True,2,Teacher,Salary,No,Verified,Cleared
+927,C_927,230.01,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+928,C_928,320.39,US,I,True,2,Student,Family Support,No,Verified,Cleared
+929,C_929,250.49,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+930,C_930,361.18,US,I,True,2,Teacher,Salary,No,Verified,Cleared
+931,C_931,346.54,US,I,True,2,Teacher,Savings,Yes,Verified,Cleared
+932,C_932,205.45,US,I,True,2,Business Owner,Business Income,No,Verified,Cleared
+933,C_933,386.48,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+934,C_934,207.26,US,I,False,2,Software Developer,Salary,No,Verified,Cleared
+935,C_935,217.92,US,I,False,2,Business Owner,Investment,No,Verified,Cleared
+936,C_936,258.55,US,I,False,2,Teacher,Salary,No,Verified,Cleared
+937,C_937,230.16,US,I,False,2,Engineer,Investment,No,Verified,Cleared
+938,C_938,247.23,US,I,False,2,Software Developer,Investment,No,Verified,Cleared
+939,C_939,271.16,US,I,False,2,Consultant,Investment,No,Verified,Cleared
+940,C_940,547.1,US,I,False,3,Software Developer,Savings,No,Verified,Cleared
+941,C_941,480.94,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+942,C_942,453.97,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+943,C_943,498.46,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+944,C_944,478.52,US,I,False,3,Software Developer,Salary,No,Verified,Cleared
+945,C_945,462.15,US,I,False,3,Student,Family Support,No,Verified,Cleared
+946,C_946,580.11,US,I,False,3,Teacher,Salary,No,Verified,Cleared
+947,C_947,510.09,US,I,False,3,Software Developer,Investment,No,Verified,Cleared
+948,C_948,595.47,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+949,C_949,554.58,US,I,False,3,Consultant,Investment,No,Verified,Cleared
+950,C_950,514.1,US,I,True,3,Consultant,Salary,No,Verified,Cleared
+951,C_951,452.49,US,I,True,3,Teacher,Salary,Yes,Verified,Cleared
+952,C_952,537.37,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+953,C_953,491.18,US,I,False,3,Business Owner,Business Income,No,Verified,Cleared
+954,C_954,544.28,US,I,True,3,Teacher,Salary,No,Verified,Cleared
+955,C_955,480.76,US,I,False,3,Business Owner,Investment,No,Verified,Cleared
+956,C_956,499.2,US,I,True,3,Teacher,Savings,No,Verified,Cleared
+957,C_957,404.14,US,I,True,3,Business Owner,Savings,No,Verified,Cleared
+958,C_958,547.99,US,I,True,3,Teacher,Salary,No,Verified,Cleared
+959,C_959,406.85,US,I,False,3,Engineer,Savings,No,Verified,Cleared
+960,C_960,168.07,US,I,False,4,Software Developer,Salary,No,Verified,Cleared
+961,C_961,158.2,US,I,True,4,Consultant,Salary,No,Verified,Cleared
+962,C_962,177.59,US,I,True,4,Business Owner,Business Income,No,Verified,Cleared
+963,C_963,128.98,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+964,C_964,168.61,US,I,True,4,Engineer,Savings,No,Verified,Cleared
+965,C_965,120.71,US,I,True,4,Engineer,Investment,No,Verified,Potential Match
+966,C_966,152.93,US,I,True,4,Consultant,Business Income,No,Pending,Cleared
+967,C_967,134.03,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+968,C_968,197.85,US,I,False,4,Software Developer,Investment,No,Verified,Cleared
+969,C_969,197.19,US,I,False,4,Business Owner,Business Income,No,Verified,Potential Match
+970,C_970,120.9,US,I,True,4,Software Developer,Investment,No,Verified,Cleared
+971,C_971,156.6,US,I,True,4,Student,Family Support,No,Verified,Cleared
+972,C_972,132.94,US,I,True,4,Engineer,Salary,No,Verified,Cleared
+973,C_973,196.85,US,I,False,4,Engineer,Investment,Yes,Verified,Cleared
+974,C_974,192.45,US,I,True,4,Consultant,Savings,No,Verified,Cleared
+975,C_975,158.61,US,I,False,4,Teacher,Salary,No,Verified,Cleared
+976,C_976,172.01,US,I,False,4,Student,Family Support,No,Verified,Cleared
+977,C_977,168.13,US,I,True,4,Student,Savings,No,Verified,Cleared
+978,C_978,135.34,US,I,True,4,Student,Family Support,No,Pending,Cleared
+979,C_979,191.64,US,I,False,4,Teacher,Savings,No,Verified,Cleared
+980,C_980,379.89,US,I,True,5,Business Owner,Business Income,No,Verified,Cleared
+981,C_981,266.13,US,I,False,5,Engineer,Savings,No,Verified,Cleared
+982,C_982,349.48,US,I,False,5,Teacher,Salary,No,Verified,Cleared
+983,C_983,201.82,US,I,False,5,Student,Savings,No,Verified,Cleared
+984,C_984,363.27,US,I,True,5,Engineer,Salary,No,Verified,Cleared
+985,C_985,312.97,US,I,True,5,Engineer,Savings,No,Verified,Cleared
+986,C_986,390.46,US,I,True,5,Student,Family Support,No,Verified,Cleared
+987,C_987,272.64,US,I,False,5,Student,Family Support,No,Verified,Cleared
+988,C_988,325.14,US,I,False,5,Engineer,Salary,No,Verified,Cleared
+989,C_989,264.6,US,I,False,5,Consultant,Salary,No,Verified,Cleared
+990,C_990,356.56,US,I,True,5,Software Developer,Savings,No,Verified,Cleared
+991,C_991,320.14,US,I,True,5,Software Developer,Investment,No,Verified,Potential Match
+992,C_992,397.49,US,I,True,5,Engineer,Investment,No,Verified,Cleared
+993,C_993,200.2,US,I,False,5,Business Owner,Investment,No,Pending,Cleared
+994,C_994,228.15,US,I,True,5,Business Owner,Investment,No,Verified,Cleared
+995,C_995,208.72,US,I,True,5,Consultant,Savings,Yes,Pending,Cleared
+996,C_996,225.17,US,I,True,5,Teacher,Savings,No,Verified,Cleared
+997,C_997,385.88,US,I,True,5,Engineer,Investment,Yes,Verified,Cleared
+998,C_998,389.72,US,I,True,5,Business Owner,Unknown,No,Verified,Cleared
+999,C_999,296.08,US,I,True,5,Engineer,Unknown,No,Verified,Cleared
