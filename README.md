@@ -29,16 +29,36 @@ Because IBM AMLSim does not provide customer onboarding information, synthetic K
 
 ## Workflow
 
-```mermaid
-flowchart LR
-    A[Accounts Dataset]
-    --> B[Customer Profile Generator]
-    --> C[Risk Scoring]
-    --> D[EDD Decision]
-    --> E[Transaction Monitoring]
-    --> F[AML Alerts]
+```text
+┌──────────────────┐
+│ Accounts Dataset │
+└──────────────────┘
+          │
+          ▼
+┌───────────────────────┐
+│ KYC Profile Generator │
+└───────────────────────┘
+          │
+          ▼
+┌──────────────────┐
+│   Risk Scoring   │
+└──────────────────┘
+          │
+          ▼
+┌──────────────────┐
+│   EDD Decision   │
+└──────────────────┘
+          │
+          ▼
+┌──────────────────────────┐
+│ Transaction Monitoring   │
+└──────────────────────────┘
+          │
+          ▼
+┌──────────────────┐
+│    AML Alerts    │
+└──────────────────┘
 ```
-
 
 ## Features
 
